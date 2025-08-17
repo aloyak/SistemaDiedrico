@@ -26,6 +26,8 @@ As a student struggling with spatial visualization, I couldn't find adequate sof
 - Save/Loading projects
 - Documentation (ES): ![Github Wiki](https://github.com/AlmartDev/SistemaDiedrico/wiki)
 
+![Scene Preview](https://github.com/AlmartDev/SistemaDiedrico/blob/main/docs/images/project_preview.png)
+
 ## Installation
 
 ### Requirements
@@ -57,5 +59,5 @@ ninja
 python -m http.server 8000
 ```
 
-### License
+## License
 Please see "LICENSE" for more information!
