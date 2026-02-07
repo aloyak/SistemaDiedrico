@@ -1,16 +1,16 @@
 <p align="center">
-<img src="https://github.com/AlmartDev/SistemaDiedrico/blob/main/assets/favicon.ico">
+<img src="https://github.com/aloyak/SistemaDiedrico/blob/main/assets/favicon.ico">
 </p>
 <h1 align="center">Sistema Diedrico (Dihedral System)</h1>
 
-[![Web Version](https://img.shields.io/badge/Live%20Demo-Available-green)](https://almartdev.github.io/SistemaDiedrico)
+[![Web Version](https://img.shields.io/badge/Live%20Demo-Available-green)](https://aloyak.github.io/SistemaDiedrico)
 
 A 3D visualization tool for dihedral system projections.
 
 ### Want to check out the web version?
-Development web build (ENGLISH): https://almartdev.github.io/SistemaDiedrico/
+Development web build (ENGLISH): https://aloyak.github.io/SistemaDiedrico/
 
-Versión de desarrollo (ESPAÑOL): https://almartdev.github.io/SistemaDiedrico/?lang=ES
+Versión de desarrollo (ESPAÑOL): https://aloyak.github.io/SistemaDiedrico/?lang=ES
 
 ▶ **How does dihedral look like?** [YouTube](https://youtu.be/H5uxDwpfXNs)
 
@@ -24,9 +24,9 @@ As a student struggling with spatial visualization, I couldn't find adequate sof
 - Support for points, lines, and planes (for now)
 - Web and desktop versions
 - Save/Loading projects
-- Documentation (ES): ![Github Wiki](https://github.com/AlmartDev/SistemaDiedrico/wiki)
+- Documentation (ES): ![Github Wiki](https://github.com/aloyak/SistemaDiedrico/wiki)
 
-![Scene Preview](https://github.com/AlmartDev/SistemaDiedrico/blob/main/docs/images/project_preview.png)
+![Scene Preview](https://github.com/aloyak/SistemaDiedrico/blob/main/docs/images/project_preview.png)
 
 ## Installation
 
@@ -37,7 +37,7 @@ As a student struggling with spatial visualization, I couldn't find adequate sof
 
 ### Linux/macOS
 ```bash
-git clone https://github.com/almartdev/sistemadiedrico.git
+git clone https://github.com/aloyak/sistemadiedrico.git
 cd sistemadiedrico
 mkdir build && cd build
 cmake ..
