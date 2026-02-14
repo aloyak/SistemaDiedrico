@@ -3,14 +3,14 @@
 </p>
 <h1 align="center">Sistema Diedrico (Dihedral System)</h1>
 
-[![Web Version](https://img.shields.io/badge/Live%20Demo-Available-green)](https://aloyak.github.io/SistemaDiedrico)
+[![Web Version](https://img.shields.io/badge/Live%20Demo-Available-green)](https://aloyak.dev/SistemaDiedrico)
 
 A 3D visualization tool for dihedral system projections.
 
 ### Want to check out the web version?
-Development web build (ENGLISH): https://aloyak.github.io/SistemaDiedrico/
+Development web build (ENGLISH): <https://aloyak.dev/SistemaDiedrico>
 
-Versión de desarrollo (ESPAÑOL): https://aloyak.github.io/SistemaDiedrico/?lang=ES
+Versión de desarrollo (ESPAÑOL): <https://aloyak.dev/SistemaDiedrico/?lang=ES>
 
 ▶ **How does dihedral look like?** [YouTube](https://youtu.be/H5uxDwpfXNs)
 
